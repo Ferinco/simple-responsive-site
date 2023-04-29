@@ -1,0 +1,21 @@
+body{background-color: white;}
+.formbox{width: 400px;
+height: 600px;
+margin: 6% auto;}
+
+.field{border: 1px solid rgb(0, 0, 0);
+width: 85%;
+margin: 3px;
+border-radius: 30px;
+padding: 7px;
+background: transparent;
+color: gray;}
+
+.number{width: 40%;
+border: 1px rgb(0, 0, 0) solid;
+border-radius: 30px;
+padding: 7px;
+margin: 3px;
+background: transparent;
+position: relative;
+}
